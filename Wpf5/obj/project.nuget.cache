@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "buCfDbSrt3gNChZUYr9gObTwwG/DnMtBtz3dn2OLC81dO5CgzM6+nN+QzzrPakmqrnAe0AwWg6mZ01o9Jx1JIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Savva\\source\\repos\\Wpf5\\Wpf5\\Wpf5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Savva\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

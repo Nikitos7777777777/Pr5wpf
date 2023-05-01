@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Wpf5.DaysView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wpf5"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="#FF5D5D5D">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2.5*"/>
+        </Grid.RowDefinitions>
+        <Label Content="1" Name="LabelNumber" Background="#FFDADADA" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="10
+               " VerticalAlignment="Top" FontFamily="Segoe UI Black" Height="118" Margin="0,1,0,0"/>
+        <Image x:Name="Image" Source="/Img/Theer.png" Margin="0,124,-1,0" Grid.RowSpan="2"/>
+    </Grid>
+</UserControl>
