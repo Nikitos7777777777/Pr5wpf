@@ -21,3 +21,13 @@ namespace Wpf5
         }
     }
 }
+//[
+//  {
+//    "date": "06.4.2023",
+//    "pathToImg": "pack://application:,,,/Img/first.png"
+//  },
+//  {
+//    "date": "01.4.2023",
+//    "pathToImg": "pack://application:,,,/Img/first.png"
+//  }
+//]

@@ -29,19 +29,19 @@ namespace Wpf5
             this.Frame = Frame;
             Label.Content = date;
 
-            if (System.IO.Path.GetFileName(day.Image.Source.ToString()) == "first.jpeg")
+            if (System.IO.Path.GetFileName(day.Image.Source.ToString()) == "Byrger.png")
             {
                 first.IsChecked = true;
             }
-            else if (System.IO.Path.GetFileName(day.Image.Source.ToString()) == "second.jpeg")
+            else if (System.IO.Path.GetFileName(day.Image.Source.ToString()) == "Rus.png")
             {
                 second.IsChecked = true;
             }
-            else if (System.IO.Path.GetFileName(day.Image.Source.ToString()) == "third.jpeg")
+            else if (System.IO.Path.GetFileName(day.Image.Source.ToString()) == "uico.png")
             {
                 third.IsChecked = true;
             }
-            else if (System.IO.Path.GetFileName(day.Image.Source.ToString()) == "fouth.jpeg")
+            else if (System.IO.Path.GetFileName(day.Image.Source.ToString()) == "byter.png")
             {
                 fouth.IsChecked = true;
             }
